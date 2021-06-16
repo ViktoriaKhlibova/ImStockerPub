@@ -327,11 +327,11 @@ In the **Upload files** window select the stock you need to upload to, from the 
 
 ![](media/en_image55.png) 
 
-Enter the username and a password from a chosen stock in the **Upload files** window, or press **Upload** and fill out special authorisation form and confirm the upload.
+Enter the username and a password from a chosen stock in the **Upload files** window, or press **Upload** and fill out special authorization form and confirm the upload.
 
 ![](media/en_image56.png) 
 
-The Upload process will begin, upon completion of which, we go to the stock and check that the files you have selected with their metadata are already waiting for confirmation and submition.
+The Upload process will begin, upon completion of which, we go to the stock and check that the files you have selected with their metadata are already waiting for confirmation and submission.
 
 ![](media/en_image57.png) 
 
