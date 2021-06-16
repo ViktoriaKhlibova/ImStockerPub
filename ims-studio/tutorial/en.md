@@ -212,4 +212,39 @@ The second way to copy metadata is through the editing panel in the lower right 
 
 ![](media/en_image22.png) 
 
-At any given moment when working with copying metadata, you can see what is currently copied to the memo, and, if necessary, make adjustments before pasting metadata into another file. To do this, go to the Memo section
+At any given moment when you are copying metadata, you can see what is currently stored in the memo, and, if necessary, make adjustments to it, before pasting metadata into another file. To do this, go to the **Memo** section on the left border of IMStocker Studio:
+
+![](media/en_image25.png) 
+
+This section, has its own **Paste metadata from Memo** button, that will apply everything from the memo to the file selected in the central area of a screen.
+
+### Multiple choice
+
+The ability to edit multiple files at once will save you time when you are dealing with a large number of similar images. To edit several files, click them with the left mouse button, holding down the **Ctrl** key. All selected pictures will be combined into a group, its composition and the number of selected files will be displayed in the upper right corner of the program:
+
+![](media/en_image48.png) 
+
+Everything that you type in the **Name** and **Description** boxes in this mode will replace the contents of such boxes for each image respectively. With the **Keywords** box: you can choose the **Edit all** option, completely replacing the keywords of the chosen files with the new ones that you enter. Or you can choose the **Add** option, that will add new words to the keywords box of the images, saving the ones that are already there.
+
+### Templates
+
+Working with templates in **IMStocker Studio** will significantly speed up the process of adding keywords to files. The template management menu is located in the lower right corner of the program and appears once you click on any picture from the workspace:
+
+![](media/en_image51.png) 
+
+This menu displays a list of already created templates, the button for creating a new template, as well as the tools to import templates from a **.csv** file or export your templates into such file.
+
+If you click on one of your templates, it will open the list of keywords it contains. Keywords matching the content of the selected file will be marked. Once inside, all keywords that you mark by clicking will be added to the **Keywords** box of the selected file. Also in this window, you can **Edit** or **Delete** a template, add all keywords to the file at once with the **Select all** button, or several random words with the **Select randomly** button.
+
+**Manage templates** feature contains **The Import / Export Templates** tools, that allow you to transfer templates between devices or users.
+
+## File management
+
+### Export metadata (PRO)
+
+Exporting metadata is one of the key features of the **PRO** version of **IMStocker Studio**, which allows you to export the metadata of selected images into a separate **.csv** file in just a few clicks.
+
+In order to use the export function, click the **Menu** button in the lower right corner and select **Export metadata**:
+
+![](media/en_image34.png) 
+
