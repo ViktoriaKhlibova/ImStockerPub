@@ -281,6 +281,18 @@ Finally, check that all the boxes are filled for each of the images mentioned in
 
 ![](media/en_image28.png) 
 
+### Metadata Analysis (PRO)
+
+Metadata analysis is one of the most useful visually compelling tools of the **PRO** version of **IMStocker Studio**. In order to analyze the metadata, select 2 or more files in the workspace and click the **Analyze** button, which will appear in the **Keywords** box.
+
+![](media/en_image52.png) 
+
+The **Metadata Analysis** window will open, in which the program will provide a brief statistical summary of 4 points: minimum number of keywords, maximum number of keywords, average number of words and their average uniqueness. It will visually display the number of keywords of each of the selected files, their uniqueness as a percentage of the total number of words and divide words into rank groups, as well as count their number, numerical and percentage.
+
+Common keywords, keywords used only once, repeating words, as well as a list of all keywords will be displayed visually convenient in special boxes respectively.
+
+![](media/en_image53.png) 
+
 ### Renaming files
 
 **IMStocker Studio** allows you to rename a picture without closing the program. To do this, right-click on the picture in the workspace and click **Rename** in the context menu:
