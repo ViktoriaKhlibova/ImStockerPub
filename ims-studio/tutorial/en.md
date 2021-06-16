@@ -171,12 +171,17 @@ By using the “**Edit**” button, the chosen words can be:
 
 “**Templates**” button allows you to create a new one or edit the templates you have already created. Mouse click on the template you have created will open the keywords that it contains:
 
+![](media/en_image4.png) 
+
 ![](media/en_image7.png) 
+
+Clicking on keywords from this template will add them to the “**Your keywords**” box. Inside the template, you can quickly add all keywords at once with the “Select all” button, add one/several random words with the “**Select random**” button, or make changes to the contents or the name of the template itself with the “Edit” button. Or you can delete this template for good.
 
 ![](media/en_image27.png) 
 
+The same button contains the “Template Management” tools, that allow you to export created templates to an external **.csv** file or import templates from the same kind of file.
 
-
+![](media/en_image43.png) 
 
 
 
