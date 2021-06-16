@@ -317,8 +317,24 @@ In both cases, window will open, allowing you to **Move** the selected images to
 
 ![](media/en_image14.png) 
 
+### File upload (PRO)
 
+Direct uploading files to stocks is a tool of the **PRO** version of **IMStocker Studio**, which will allow you to prepare files with metadata for publication on stocks without closing the program. To use this feature, select one or more files in the workspace and click the **Upload** button in the upper right corner of the program.
 
+![](media/en_image54.png) 
 
+In the **Upload files** window select the stock you need to upload to, from the suggested list, or add the one you prefer.
+
+![](media/en_image55.png) 
+
+Enter the username and a password from a chosen stock in the **Upload files** window, or press **Upload** and fill out special authorisation form and confirm the upload.
+
+![](media/en_image56.png) 
+
+The Upload process will begin, upon completion of which, we go to the stock and check that the files you have selected with their metadata are already waiting for confirmation and submition.
+
+![](media/en_image57.png) 
+
+![](media/en_image58.png) 
 
 
