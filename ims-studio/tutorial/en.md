@@ -248,3 +248,45 @@ In order to use the export function, click the **Menu** button in the lower righ
 
 ![](media/en_image34.png) 
 
+The export window provides several templates used by micro stocks, or create one yourself, according to your needs:
+
+![](media/en_image6.png) 
+
+A **.csv** file containing the metadata of a file will be created for each selected template:
+
+![](media/en_image36.png) 
+
+### Importing metadata (PRO)
+
+Metadata import is another feature of the **PRO** version of **IMStocker Studio**, which allows you to quickly load metadata from a **.csv** file. to the selected pictures in the work area.
+
+In order to use it, select the pictures, that are referenced in a **.csv** file, click the **Menu** in the lower right corner and then **Import metadata**: (program is checking whether the metadata belongs to the picture by the name of a file)
+
+![](media/en_image16.png) 
+
+Select the **.csv** file of the required template and click **Open**:
+
+![](media/en_image13.png) 
+
+Based on the metadata in the file, the program will try to determine which template is used and then offer it. Click **Import**: 
+
+![](media/en_image35.png) 
+
+Finally, check that all the boxes are filled for each of the images mentioned in the file.
+
+![](media/en_image28.png) 
+
+### Renaming files
+
+**IMStocker Studio** allows you to rename a picture without closing the program. To do this, right-click on the picture in the workspace and click **Rename** in the context menu:
+
+![](media/en_image18.png) 
+
+Or simply double-click on the name of the file with the left mouse button:
+
+![](media/en_image37.png) 
+
+
+
+
+
