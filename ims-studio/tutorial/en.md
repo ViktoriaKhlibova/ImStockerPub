@@ -55,3 +55,42 @@ In the **Program Settings**, you can change the language of use, configure the d
 The main interactions with files in **IMStocker Studio** take place through “**workspaces**”. Workplace is a folder that contains the files for editing. To get started, you need to add a new folder using the "**Add local folder**" button:
 
 ![](media/en_image10.png)
+
+The folder can contain files of 2 regular types: **JPG** and **EPS**, as well as the combined **JPG + EPS** format supported by **IMStocker studio**.
+The contents of the selected folder appear in the thumbnail display area.
+
+Right there you can sort them in a way convenient for you or quickly find the file you need by a name:
+
+![](media/en_image5.png)
+
+### Context menu
+
+When you right-click on any of the files in the workspace, the context menu appears:
+
+![](media/en_image21.png)
+
+It allows you to quickly open a file in File Explorer, copy or paste copied metadata, as well as rename or move a file to another Workspace / Folder.
+
+### File status
+
+When loading the contents of a folder in the thumbnail display area, each file will receive an indicator of how much of its metadata is filled (a circle in the file name):
+
+![](media/en_image19.png)
+
+**Green** - everything is filled
+
+**Red** - partially filled
+
+**Gray** - nothing is filled
+
+You can configure the default metadata validation rules in the **common settings**:
+
+![](media/en_image9.png)
+
+## Editing files
+
+### Editing metadata
+
+![](media/en_image39.png)
+
+Editing the metadata of the selected file occurs in the right side of the program. The editor consists of three boxes: **Title**, **Description**, **Keywords**.
