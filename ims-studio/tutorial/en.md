@@ -183,8 +183,33 @@ The same button contains the “Template Management” tools, that allow you to 
 
 ![](media/en_image43.png) 
 
+After the list of keywords is formed, and your work with **ImStocker Keyworder** is complete, the result can be **Applied** to the selected images in a workspace of **ImStocker Studio**, also you can choose what will happen with the **ImStocker Keyworder** window afted you apply results:
 
+![](media/en_image2.png) 
 
+Keywords from the **Your keywords** box, as well as the contents of the **Description** and **Name** boxes, will **Apply** to the selected file / files in the workspace, the action from the context menu applies only to the ImStocker Keyworder service window.
 
+Also, small changes for the behavior of the **ImStocker Keyworder** window can be made in **Main menu / Settings /Keyword suggesting**:
 
+![](media/en_image29.png) 
 
+### Copying / pasting metadata
+
+**IMStocker Studio** implements a mechanism for copying all of the file’s metadata in order to be applied to one or several files in the workspace, which saves a significant amount of time when you are dealing with a large library of pictures / photos.
+There are several ways to copy metadata of a file:
+
+**Through the context menu**: when you right-click on the selected image, a context menu will appear. Go to the **Metadata** section and click **Copy metadata to Memo**
+
+![](media/en_image42.png) 
+
+In order to apply copied metadata to one or several files, select the images and right-click - **Metadata** - **Paste metadata from Memo**:
+
+![](media/en_image45.png) 
+
+The metadata will be copied and will become identical to the metadata of the original image.
+
+The second way to copy metadata is through the editing panel in the lower right corner of the program. Press the **Menu** button and choose **Copy metadata to Memo**, then select one or more files where you want to copy the metadata and click **Paste metadata from the Memo**:
+
+![](media/en_image22.png) 
+
+At any given moment when working with copying metadata, you can see what is currently copied to the memo, and, if necessary, make adjustments before pasting metadata into another file. To do this, go to the Memo section
