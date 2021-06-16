@@ -287,7 +287,7 @@ Metadata analysis is one of the most useful and visually compelling tools of the
 
 ![](media/en_image52.png) 
 
-The **Metadata Analysis** window will open, in which the program will provide a brief statistical summary of 4 points: minimum number of keywords, maximum number of keywords, average number of words and their average uniqueness. It will visually display the number of keywords of each of the selected files, their uniqueness as a percentage of the total number of words and divide words into rank groups, as well as count their number, numerical and percentage.
+The **Metadata Analysis** window will open, in which the program will provide a brief statistical summary of 4 points: minimum number of keywords, maximum number of keywords, average number of words and their average uniqueness. It will visually display the number of keywords of each of the selected files, their uniqueness as a percentage of the total number of words and divide words into rank groups, as well as count how many there are, both by number and percentage.
 
 Common keywords, keywords used only once, repeating words, as well as a list of all keywords will be displayed visually convenient in special boxes respectively.
 
@@ -317,7 +317,7 @@ In both cases, window will open, allowing you to **Move** the selected images to
 
 ![](media/en_image14.png) 
 
-### File upload (PRO)
+### Upload to stocks  (PRO)
 
 Direct uploading files to stocks is a tool of the **PRO** version of **IMStocker Studio**, which will allow you to prepare files with metadata for publication on stocks without closing the program. To use this feature, select one or more files in the workspace and click the **Upload** button in the upper right corner of the program.
 
