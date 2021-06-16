@@ -184,7 +184,7 @@ Clicking on keywords from this template will add them to the “**Your keywords*
 
 ![](media/en_image27.png) 
 
-The same button contains the “Template Management” tools, that allow you to export created templates to an external **.csv** file or import templates from the same kind of file.
+The same button contains the “**Template Management**” tools, that allow you to export created templates to an external **.csv** file or import templates from the same kind of file.
 
 ![](media/en_image43.png) 
 
