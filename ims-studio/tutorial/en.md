@@ -283,7 +283,7 @@ Finally, check that all the boxes are filled for each of the images mentioned in
 
 ### Metadata Analysis (PRO)
 
-Metadata analysis is one of the most useful visually compelling tools of the **PRO** version of **IMStocker Studio**. In order to analyze the metadata, select 2 or more files in the workspace and click the **Analyze** button, which will appear in the **Keywords** box.
+Metadata analysis is one of the most useful and visually compelling tools of the **PRO** version of **IMStocker Studio**. In order to analyze the metadata, select 2 or more files in the workspace and click the **Analyze** button, which will appear in the **Keywords** box.
 
 ![](media/en_image52.png) 
 
