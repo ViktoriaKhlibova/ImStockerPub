@@ -353,6 +353,10 @@
   <img src="media/ru_image12.png">
 </p>
 
+Видеоинструкция о данной функции:
+
+[![Видео](https://img.youtube.com/vi/Tm_8wiVCvoc/0.jpg)](https://www.youtube.com/watch?v=Tm_8wiVCvoc)
+
 ### Импорт метаданных [[PRO]]
 
 Импорт метаданных - ещё одна особенностей **PRO** версии **IMStocker Studio**, позволяющая быстро подгрузить метаданные из файла формата **.csv** к выделенным картинкам в рабочей области.
@@ -380,6 +384,10 @@
   <img src="media/ru_image45.png">
 </p>
 
+Видеоинструкция о данной функции:
+
+[![Видео](https://img.youtube.com/vi/VvgFnPx7PV0/0.jpg)](https://www.youtube.com/watch?v=VvgFnPx7PV0)
+
 ### Анализ метаданных [[PRO]]
 
 Анализ метаданных - одна из самых полезных и наглядных функций **PRO** версии **IMStocker Studio**. Для того чтобы провести анализ метаданных, выделяем 2 или более файлов в рабочей области и нажимаем кнопку **Анализировать**, которая появится в боксе **Ключевые слова**.
@@ -395,6 +403,10 @@
 <p align="center">
   <img src="media/ru_image54.png">
 </p>
+
+Видеоинструкция о данной функции:
+
+[![Видео](https://img.youtube.com/vi/4hv5MDIsGas/0.jpg)](https://www.youtube.com/watch?v=4hv5MDIsGas)
 
 ### Переименование файлов
 
@@ -459,6 +471,8 @@
   <img src="media/ru_image59.png">
 </p>
 
+Видеоинструкция о данной функции:
 
+[![Видео](https://img.youtube.com/vi/kPM49GGuVVs/0.jpg)](https://www.youtube.com/watch?v=kPM49GGuVVs)
 
 
