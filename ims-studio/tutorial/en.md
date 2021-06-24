@@ -245,7 +245,7 @@ If you click on one of your templates, it will open the list of keywords it cont
 
 ## File management
 
-### Export metadata (PRO)
+### Export metadata [[PRO]]
 
 Metadata exporting  is one of the key features of the **PRO** version of **IMStocker Studio**, which allows you to export the metadata of selected images into a separate **.csv** file in a few clicks.
 
@@ -261,7 +261,7 @@ A **.csv** file containing the metadata file  will be created for each selected 
 
 ![](media/en_image36.png) 
 
-### Metadata Importing  (PRO)
+### Metadata Importing [[PRO]]
 
 Metadata importing is another feature of the **PRO** version of **IMStocker Studio**, which allows you to quickly load metadata from a **.csv** file to the selected pictures in the work area.
 
@@ -281,7 +281,7 @@ Finally, check that all the boxes are filled for each of the images mentioned in
 
 ![](media/en_image28.png) 
 
-### Metadata Analysis (PRO)
+### Metadata Analysis [[PRO]]
 
 Metadata analysis is one of the most useful and visually compelling tools of the **PRO** version of **IMStocker Studio**. In order to analyze the metadata, select 2 or more files in the workspace and click the **Analyze** button, which will appear in the **Keywords** box.
 
@@ -317,7 +317,7 @@ In both cases, window will open, allowing you to **Move** the selected images to
 
 ![](media/en_image14.png) 
 
-### Upload to stocks  (PRO)
+### Upload to stocks [[PRO]]
 
 Direct uploading files to stocks is a tool of the **PRO** version of **IMStocker Studio**, which will allow you to prepare files with metadata for publication on stocks without closing the program. To use this feature, select one or more files in the workspace and click the **Upload** button in the upper right corner of the program.
 
