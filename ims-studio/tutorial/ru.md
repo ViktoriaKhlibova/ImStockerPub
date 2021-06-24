@@ -271,7 +271,7 @@
 
 Посмотреть возможность в деле можно на видео:
 
-[[YOUTUBE=Z1kohCT3aDQ]]
+[![Видео](https://img.youtube.com/vi/Z1kohCT3aDQ/0.jpg)](https://www.youtube.com/watch?v=Z1kohCT3aDQ)
 
 ### Копирование/вставка метаданных
 
