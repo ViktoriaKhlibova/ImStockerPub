@@ -1,4 +1,4 @@
-# Руководство по ImStocker Studio
+# Руководство по ImStocker Studios
 
 ## Начало работы
 
