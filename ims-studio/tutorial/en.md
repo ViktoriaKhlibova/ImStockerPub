@@ -37,7 +37,7 @@ And for cases when the deadline is upon you and every second counts, there is a 
 When you first enter the program, you will see the **main window**, which will politely tell you how to start your work with **IMStocker Studio**:
 
 <p align="center">
-  <img src="media/en_image31.png">
+  <img src="media/en_image31x.png">
 </p>
 
 ### Main window
