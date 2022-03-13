@@ -478,3 +478,11 @@
 Видеоинструкция о данной функции:
 
 [[YOUTUBE=kPM49GGuVVs]]
+  
+## Настройки программы
+  
+### Интеграция с Ghostscript
+  
+<div id="settings-ghostscript-integration"></div>
+  
+... [раздел в работе] ...
