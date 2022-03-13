@@ -485,6 +485,6 @@
   
 <div id="settings-ghostscript-integration"></div>
   
-Mac-версия ***ImStocker Studio*** поддерживает генерацию превью для EPS-файлов "из коробки", а чтобы этому научить Windows-версию, можно интегрировать IMS Studio с [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html)
+Mac-версия **ImStocker Studio** поддерживает генерацию превью для EPS-файлов "из коробки", а чтобы этому научить Windows-версию, можно интегрировать IMS Studio с [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html)
   
 ... [раздел в работе] ...
