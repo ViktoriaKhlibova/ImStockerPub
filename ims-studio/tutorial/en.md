@@ -460,6 +460,6 @@ The Upload process will begin, upon completion of which, we go to the stock and 
   
 <div id="settings-ghostscript-integration"></div>
   
-The Mac version of **ImStocker Studio** supports generating thumbnails for EPS files out of the box. For do the same in Windows version, you can integrate IMS Studio with [Ghostscript](https://www.ghostscript.com/ releases/gsdnld.html)
+The Mac version of **ImStocker Studio** supports generating thumbnails for EPS files out of the box. For do the same in Windows version, you can integrate IMS Studio with [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html)
 
 ... [work in progress] ...
