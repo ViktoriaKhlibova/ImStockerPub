@@ -144,11 +144,11 @@ In the lower right corner of the program there are several tools that greatly si
 </p>
 
    - The "**Transform keywords**" button allows you to make quick changes to all keywords at the same time: translate words into singular / plural, as well as the ability to remove the same root / similar words, words exceeding the set limit and words with errors.
-   
+
    - The “**Sort keywords**” button allows for the convenience of displaying to sort keywords by popularity, number of downloads, alphabet in forward and reverse order, as well as randomly.
-   
+
    - The "**Templates**"  button allows you to create your own set of keywords, and quickly apply it if necessary, greatly simplifying the work with keywords if you are working with a large number of similar pictures / photos.
-   
+
    - The “**Menu**” button allows you to work with the functions of import / export of metadata, as well as with the buffer of metadata.
 
 ### Browsing for keywords
@@ -164,13 +164,13 @@ In order to use the **ImStocker Keyworder** service, you need to select one or s
 To get the first results, it is enough to:
 
   **1** Enter one keyword and press **Enter** or the search button
-  
+
 <p align="center">
   <img src="media/en_image44.png">
 </p>
 
   **2** Choose one picture or more that associated with the chosen word from suggested images:
-  
+
 <p align="center">
   <img src="media/en_image24.png">
 </p>
@@ -455,9 +455,11 @@ The Upload process will begin, upon completion of which, we go to the stock and 
 
 
 ## Application settings
-  
+
 ### Integration with Ghostscript (Windows)
-  
+
 <div id="settings-ghostscript-integration"></div>
-  
+
 The Mac version of **ImStocker Studio** supports generating thumbnails for EPS files out of the box. To do the same in the Windows version, you can integrate IMS Studio with [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html)
+
+... [work in progress] ...
