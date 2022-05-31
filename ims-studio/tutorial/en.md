@@ -1,30 +1,32 @@
-# ImStocker Studio Guide 
+# ImStocker Studio Guide
 
-## Beginning of work 
+## Beginning of work
 
-### First launch The IMS Studio software is available for download on the main site [https://imstocker.com/](https://imstocker.com/) 
+### First launch 
 
-<p align="center">
- <img src="media/en_image26.png">
-</p> 
-
-When you click on the IMS Studio button, a window for selecting the user's operating system will open. Select and click on the download button 
+The IMS Studio software is available for download on the main site [https://imstocker.com/](https://imstocker.com/)
 
 <p align="center">
- <img src="media/en_image23.png">
-</p> 
+  <img src="media/en_image26.png">
+</p>
 
-After installation and launch, you will be greeted with a welcome window, from which you can log in and register in the program: 
-
-<p align="center">
- <img src="media/en_image15.png">
-</p> 
-
-Registration in the service is quick and easy, without filling out questionnaires. 
+When you click on the IMS Studio button, a window for selecting the user's operating system will open. Select and click on the download button
 
 <p align="center">
- <img src="media/en_image32.png">
-</p> 
+  <img src="media/en_image23.png">
+</p>
+
+After installation and launch, you will be greeted with a welcome window, from which you can log in and register in the program:
+
+<p align="center">
+  <img src="media/en_image15.png">
+</p>
+
+Registration in the service is quick and easy, without filling out questionnaires.
+
+<p align="center">
+  <img src="media/en_image32.png">
+</p>
 
 And for cases when the deadline is upon you and every second counts, there is a way to enter instantly and anonymously, skipping the registration stage: 
 
