@@ -25,7 +25,7 @@ After installation and launch, you will be greeted with a welcome window, from w
 Registration in the service is quick and easy, without filling out questionnaires.
 
 <p align="center">
-  <img src="media/en_image32.png">
+ <img src="media/en_image32.png">
 </p>
 
 And for cases when the deadline is upon you and every second counts, there is a way to enter instantly and anonymously, skipping the registration stage:
