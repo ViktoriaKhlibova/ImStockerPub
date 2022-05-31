@@ -1,42 +1,42 @@
-# ImStocker Studio Guide  
- 
-## Beginning of work  
- 
-### First launch The IMS Studio software is available for download on the main site [https://imstocker.com/](https://imstocker.com/)  
- 
+# ImStocker Studio Guide 
+
+## Beginning of work 
+
+### First launch The IMS Studio software is available for download on the main site [https://imstocker.com/](https://imstocker.com/) 
+
 <p align="center">
  <img src="media/en_image26.png">
-</p>
+</p> 
 
-When you click on the IMS Studio button, a window for selecting the user's operating system will open. Select and click on the download button
+When you click on the IMS Studio button, a window for selecting the user's operating system will open. Select and click on the download button 
 
 <p align="center">
  <img src="media/en_image23.png">
-</p>
+</p> 
 
-After installation and launch, you will be greeted with a welcome window, from which you can log in and register in the program:
+After installation and launch, you will be greeted with a welcome window, from which you can log in and register in the program: 
 
 <p align="center">
  <img src="media/en_image15.png">
-</p>
+</p> 
 
-Registration in the service is quick and easy, without filling out questionnaires.
+Registration in the service is quick and easy, without filling out questionnaires. 
 
 <p align="center">
  <img src="media/en_image32.png">
-</p>
+</p> 
 
-And for cases when the deadline is upon you and every second counts, there is a way to enter instantly and anonymously, skipping the registration stage:
+And for cases when the deadline is upon you and every second counts, there is a way to enter instantly and anonymously, skipping the registration stage: 
 
 <p align="center">
  <img src="media/en_image12.png">
-</p>
+</p> 
 
-When you first enter the program, you will see the **main window**, which will politely tell you how to start your work with **IMStocker Studio**:
+When you first enter the program, you will see the **main window**, which will politely tell you how to start your work with **IMStocker Studio**: 
 
 <p align="center">
  <img src="media/en_image61.png">
-</p>
+</p> 
 
 ### Main window
 
