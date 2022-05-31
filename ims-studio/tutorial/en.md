@@ -1,6 +1,9 @@
-# ImStocker Studio Guide
-## Beginning of work
-### First launch The IMS Studio software is available for download on the main site [https://imstocker.com/](https://imstocker.com/)
+# ImStocker Studio Guide  
+ 
+## Beginning of work  
+ 
+### First launch The IMS Studio software is available for download on the main site [https://imstocker.com/](https://imstocker.com/)  
+ 
 <p align="center">
  <img src="media/en_image26.png">
 </p>
