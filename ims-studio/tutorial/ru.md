@@ -933,33 +933,33 @@
 **Экспорт/Импорт CSV** - содержит основные csv-форматы. Для добавления нового csv-формата нажмите на кнопку **Создать формат**.
   
 <p align="center">
-  <img src="media/ru_csv_settings.png">
+  <img src="media/csv_settings_ru.png">
 </p>
   
 Также Вы можете создать шаблон, просто загрузив CSV-файл. Программа всё сделает за Вас. Для этого нажмите на синюю выпадающую кнопку с 3 белыми горизонтальными линиями и выберите в меню “Создать из шаблона”. 
 
 <p align="center">
-  <img src="media/ru_create_csv_format_from_template.png">
+  <img src="media/create_csv_format_from_template_ru.png">
 </p>
 
 После этого выберите файл и нажмите кнопку “Открыть”. Готово!
 
 <p align="center">
-  <img src="media/ru_create_csv_format_from_template_result.png">
+  <img src="media/create_csv_format_from_template_result_ru.png">
 </p>
   
 <a id="settings-file-statuses"></a>**Статусы файлов** - для управления статусами файлов в настройках есть специальный раздел “Статусы файлов”, где Вы можете создать статус и выбрать ему понравившуюся Вам иконку, цвет, название, привязан ли он к стокам. Для создания нажмите на синюю кнопку внизу диалогового окна “Добавить статус”.
   
 <p align="center">
-  <img src="media/ru_create_status_in_settings_button.png">
+  <img src="media/create_status_in_settings_button_ru.png">
 </p>
   
 <p align="center">
-  <img src="media/ru_create_status_in_settings_dialog.png">
+  <img src="media/create_status_in_settings_dialog_ru.png">
 </p>
 
 <p align="center">
-  <img src="media/ru_create_status_in_settings_res.png">
+  <img src="media/create_status_in_settings_res_ru.png">
 </p>
   
 **Наборы метаданных** - содержит основные наборы метаданных. Для добавления нового набора метаданных нажмите на кнопку **Добавить набор**.
@@ -971,13 +971,13 @@
 **Шаблоны метаданных** - содержит основные шаблоны метаданных. Для добавления нового шаблона нажмите на кнопку **Добавить шаблон**.
   
 <p align="center">
-  <img src="media/ru_settings_templates.png">
+  <img src="media/settings_templates_ru.png">
 </p>
   
 **Подключения к стокам** - содержит основные подключения к стокам. Для добавления нового подключения нажмите на кнопку **Добавить новый сток**.
   
 <p align="center">
-  <img src="media/ru_stocks.png">
+  <img src="media/stocks_ru.png">
 </p>
   
 **Интеграция** - позволяет вам сохранять приложения, которые вы часто используете для открытия файлов, а также даёт возможность задать путь до Ghostscript. Подробнее о Ghostscript можно узнать [здесь](#settings-ghostscript-integration).
@@ -1001,19 +1001,19 @@
 Вы можете управлять настройками подключений, шаблонами CSV и наборами метаданны. Например, если Вы захотите скрыть неиспользуемые элементы, то нужно нажать на перечеркнутый глаз, расположенный справа от выбранного элемента.
 
 <p align="center">
-  <img src="media/ru_hide_unused_elem.png">
+  <img src="media/hide_unused_elem_ru.png">
 </p>
 
 Если Вы решите восстановить элемент, перейдите в настройки, выберите нужный Вам раздел (шаблоны CSV, настройки подключений или наборы метаданных) и нажмите на стрелочку, расположенную справа от выбранного элемента.
 
 <p align="center">
-  <img src="media/ru_restore_elem.png">
+  <img src="media/restore_elem_ru.png">
 </p>
   
 Если Вы захотите удалить статус, подключение, шаблон или набор, нажмите на крестик, расположенный справа от названия элемента.
   
 <p align="center">
-  <img src="media/ru_drop_status_in_settings.png">
+  <img src="media/drop_status_in_settings_ru.png">
 </p>
 
 ### <a id="checking-readiness-of-files"></a>Проверка готовности файлов
