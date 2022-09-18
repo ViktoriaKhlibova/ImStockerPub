@@ -224,7 +224,7 @@
 
 * [ВКонтакте](https://vk.com/ImStockercom)
 * [Instagram](https://www.instagram.com/ImStocker.ru/)
-* [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fstudio.imstocker.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EImStocker&region=follow_link&screen_name=ImStocker)
+* [Twitter](https://twitter.com/imstocker)
 * [Telegram](https://t.me/ImStocker_ru)
 
 ## <a id="edit"></a>Редактирование файлов
